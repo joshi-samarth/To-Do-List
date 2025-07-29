@@ -14,8 +14,4 @@ A simple and interactive To-Do List built using **HTML**, **CSS**, and **JavaScr
 
 ---
 
-## 📸 Screenshots
 
-> *Include screenshots here if available. You can use the following markdown once uploaded:*
-```md
-![Screenshot](./screenshots/todo-list.png)
