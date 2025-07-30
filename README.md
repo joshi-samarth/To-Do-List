@@ -1,45 +1,19 @@
 # 📝 To-Do List Web App
 
-A simple, responsive To-Do List application built using HTML, CSS, and JavaScript. This project helps users manage daily tasks by adding, removing, and marking tasks as completed.
+A simple and elegant To-Do List web application that allows users to add, edit, and delete tasks with persistent storage using `localStorage`. This project is built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-## 📌 Features
+## 🌟 Features
 
-- ✅ Add new tasks
+- ✅ Add tasks
+- ✏️ Edit existing tasks
 - ❌ Delete tasks
-- ✔️ Mark tasks as completed
-- 🧹 Clear all completed tasks
-- 💾 Data persistence with `localStorage`
-- 📱 Fully responsive design
+- 💾 Tasks are saved in `localStorage`
+- 🖼️ Custom icons for edit and delete
+- 🎨 Responsive and modern UI with gradient background
 
 ---
 
-## 🚀 Live Demo
+## 📁 File Structure
 
-[Click here to view the demo](#) <!-- Replace with GitHub Pages or your hosted link if available -->
-
----
-
-## 📂 File Structure
-
-
-
-
-
-
----
-
-## 🛠️ Tech Stack
-
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla JS)**
-
----
-
-## 💡 How to Use
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/todo-list.git
